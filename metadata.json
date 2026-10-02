@@ -1,0 +1,6 @@
+{
+  "name": "RecallPDF",
+  "description": "Tablet-first spaced repetition PDF reader where individual pages act as independent review items.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
